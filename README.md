@@ -38,7 +38,7 @@ Generates dynamic heat maps using Folium and OpenStreetMaps.
 Prepares for future integration with real-world antenna array data.
 
 ## 👤 Contributors
-Danny (solo project)
+Danny as a member of the Mobile Radio Triangulation Student team at the University of Utah
 
 ## ❓ FAQ
 Q: Can I use this with real GPS or signal data?
@@ -51,7 +51,7 @@ Q: What data is needed to replace the simulation?
 A: The system will eventually accept GPS coordinates and AoA (Angle of Arrival) data from a mobile antenna array.
 
 Q: Do I need internet to run the map?
-A: Yes — unless you pre-download map tiles using MOBAC.
+A: No as long as you download the necessary js and css files in the repo. You will need to predownload the map tiles i.e. MOBAC.
 
 ## 📄 License
 This project is currently not licensed. Feel free to explore and experiment, but please contact before redistributing or using in commercial applications.
